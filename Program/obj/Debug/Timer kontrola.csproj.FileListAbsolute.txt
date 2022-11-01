@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\bin\Debug\Timer kontrola.exe.config
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\bin\Debug\Timer kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\bin\Debug\Timer kontrola.pdb
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\obj\Debug\Timer kontrola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\obj\Debug\Timer kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\obj\Debug\Timer_kontrola.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\obj\Debug\Timer_kontrola.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\obj\Debug\Timer kontrola.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\obj\Debug\Timer kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\obj\Debug\Timer kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\Timer kontrola\obj\Debug\Timer kontrola.pdb
